@@ -11,4 +11,12 @@ This repository contains project "The 10th anniversary of Open Source Society at
 | /   | Root directory   | 
 | css | Place CSS code file  | 
 | js  | Place Javacript code file|
-| img | Place all the images  | 
+| images | Place all the images  | 
+
+##Special Thanks
+- [Bootstrap](https://github.com/twbs/bootstrap)
+- [Unslider.js](https://github.com/idiot/unslider)
+- [jQuery](https://github.com/jquery/jquery)
+- [html5shiv.js](https://github.com/afarkas/html5shiv)
+- [Respond.js](https://github.com/scottjehl/Respond)
+- [Stroke 7 Icon Font Set by pixeden](http://www.pixeden.com/icon-fonts/stroke-7-icon-font-set)
