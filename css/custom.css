@@ -11,9 +11,11 @@ body, html, h1, h2, h3, h4, h5, h6, a, p{
     text-decoration: none;
 }
 .title_link:visited{
+	color: #000000;
     text-decoration: none;
 }
 .title_link:focus{
+	color: #000000;
     text-decoration: none;
 }
 
@@ -63,6 +65,13 @@ body, html, h1, h2, h3, h4, h5, h6, a, p{
 .item_link:focus{
     text-decoration: none;
 }
+
+.announcement{
+	font-size: 1.2em;
+    margin: 30px 0 30px 0;
+    text-align: center;
+}
+
 .footer{
     text-align: center;
     margin: 50px 0 0 0;
