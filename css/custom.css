@@ -35,9 +35,11 @@ body, html, h1, h2, h3, h4, h5, h6, a, p{
 .index_slide ul li {
     float: left;
 }
-#slide1{
+
+/*#slide1{
     background: url("../images/one.jpg");
-}
+}*/
+
 .item_link{
     text-decoration: none;
 }
